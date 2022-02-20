@@ -4,6 +4,7 @@ git config --global user.name  "shark" = adiciona novamente
 git remote add origin + link do repositorio do git = prepara para o envio no servidor remoto
 git remote -v = lista de repositorio remoto
 origin apelido
+depois do commit utilize: git branch -M main
 git push origin master = envia para o servidor
 git pull origen master = puxa o conteudo
 git clone + url = faz o download
