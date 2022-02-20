@@ -1,0 +1,32 @@
+conceituacao de dados.
+sao os valores e consequentemente operacoes que as variaveis
+podem assumir e sofrer respecitivamente.
+tipificacao
+estatica(forte) vs dinamica(fraco)
+primitivo vs composto
+-----------------------------++
+tipos de dados
+textual
+numeral
+logico
+objeto
+
+
+ex numeral
+byte: -128 a 127 byte b = 15;
+short: -32768 ate 32767 short s = -15785;
+int: -2147483648 a 2147483647 i = 851578;
+long: -9223372036854775808 ate 9223372036854775807
+float:+- 3.40282347E+F float f = 
+double: -+1.79769313486231570E+308 double d =
+
+ex textual
+char: carctes de 16 bit unicode char c = '\u0084'; ou 
+char c = 'T';
+String: um tipo "especial" String s = "T"
+
+ex logico 
+boolean: true e false boolean s = false;
+
+ex objeto
+outro curso

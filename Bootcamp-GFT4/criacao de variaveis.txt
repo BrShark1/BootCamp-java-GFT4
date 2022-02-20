@@ -1,0 +1,33 @@
+Conceituacao criacao
+Variavel = um espaco na memoria do computador, onde se pode guardar valores
+instancia: objeto
+classe: classe
+Local: dentro de metodos
+parametro: na assinatura do metodo
+
+----------------------------------------------------------
+Visibilidade = public, protected e private
+modificador = static e final
+tipo = tipo de dado
+Nome = nome que e fornecido a variavel
+vlaor inicial= um valor incial caso se deseje
+--------------------------------------------------------
+criacao
+nao deve comecar com numeros
+e permitido cifrao e _ devem ser evitados
+sao case sensitive = diferencia maiusculo e minusculo
+sem espacos
+nao pode ser palavras reservadas do java
+
+convencoes e regras
+int i;           int final j = 10;
+int I;            int asrn24678md;
+int 1a; x          int asrn246 78md;x
+int _1a;          int asrasdf_asdf= 10;
+int cifrao_aq     int asdfa%asfasf_sd =10;x
+int I=10;
+
+sempre comecar com letra minuscula
+nomes expressivos
+notacao camelo
+quando constate(final) maiuscula e serparada_;

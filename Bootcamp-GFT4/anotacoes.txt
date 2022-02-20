@@ -1,0 +1,45 @@
+git config --list = traz a lista do git
+git config --global --unset user.name = apaga configuracao
+git config --global user.name  "shark" = adiciona novamente
+git remote add origin + link do repositorio do git = prepara para o envio no servidor remoto
+git remote -v = lista de repositorio remoto
+origin apelido
+git push origin master = envia para o servidor
+git pull origen master = puxa o conteudo
+git clone + url = faz o download
+
+-------------------------------------------
+comandos basicos cmd 
+
+cd/ = entra em uma pasta
+dir = lista as pastas dentro do diretorio que se encontra
+cls = limpar tela
+mkdir = criar pasta
+cd .. = voltar a pasta anterior
+echo = printa o que digitar
+echo > e o nome do arquivo com extensão =cria o arquivo
+del = deleta arquivo
+rmdir + nome da pasta /S/Q = deleta repositorio
+----------------------------------------------------------
+comando git
+ctrl + L = limpar
+git init = comando para inicializar o git (repositorio) dentro da pasta
+ls = lista o que tem dentro da pasta
+-a = mostra arquivos ocultos
+git config --global user.(email "ramonsilva.udi@gmail.com") = comando informar o autor
+Criar aquivo markdown .md = html
+# = titulo
+**asf** = negrito
+_asf_ = italico
+-------------------------------------------------------------
+commit arquivo
+git add * = move objeto para staged
+git commit -m "commit inicial"
+--------------------------------------------
+unmodified = aguardando modificacao
+modified = item modificado
+staged = agauardando commit
+git status = verificar se possui arquivo a fazer commit
+mv = mover
+
+
