@@ -1,0 +1,10 @@
+operador aritimetico
+
+sao simbolos especiais quais sao capayes de realiyar acoes especificas em um 
+dois ou mais operandos e, em seguida, retorna no resultado final
+
+tipos
+pos-fixado: exp++ ou ex--
+prefixado: ++exp ou --exp
+aritimetico: +, -, *, /, %
+atribuicao: = +,= -,= *, =/, =%
